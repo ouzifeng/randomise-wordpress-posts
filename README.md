@@ -6,7 +6,7 @@ A Wordpress plugin which will change the date of any Wordpress post from the cur
 
 This plugin will find all your current posts, then bulk change the published dates to a random date anytime from the current date up to 3 years ago. Once a post's date as been randomised, it will be ignored next time you run it to avoid changing it again
 
-I randomises the dates 1 post every second, to reduce the risk of it server timeouts 
+It randomises the dates 1 post every second, to reduce the risk of it server timeouts 
 
 ## Installation
 
